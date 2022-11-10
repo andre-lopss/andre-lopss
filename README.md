@@ -1,4 +1,4 @@
-### Olá! Eu sou o André (Mámá FOREVEEEEEER!) 🌟
+### Olá! Eu sou o André! 🌟
 
 - 💻 Software Developer 
 - 💖 Apaixonado por tecnologia!
@@ -23,10 +23,8 @@
   ##
 
 <div> 
-  <a href="[https://www.linkedin.com/in/sara-souza-aa5a431b1/](https://www.linkedin.com/in/andrelopesneres/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-    
-   ![Snake animation](https://github.com/sara-larissa/sara-larissa/blob/output/github-contribution-grid-snake.svg)
-    
+  <a href="https://www.linkedin.com/in/andrelopesneres/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+        
 </div>
 
 
