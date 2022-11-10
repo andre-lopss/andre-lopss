@@ -4,7 +4,7 @@
 - 💖 Apaixonado por tecnologia!
 
 <div align="center">
-    <a href="https://github.com/sara-larissa">
+    <a href="https://github.com/andre-lopss">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andre-lopss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre-lopss&layout=compact&langs_count=7&theme=dracula"/>
   </div>
